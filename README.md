@@ -91,15 +91,12 @@ Pre-computed metrics are available in `02_Original_Implementation/Results/*/Metr
 
 ## Sample Results
 
-<!-- Replace the placeholders below with your actual image paths or URLs -->
-
 ### Visual Comparisons
 
-| Input (Low-Light) | FCE-Net Output | Ground Truth |
-|---|---|---|
+| Input (Low-Light) | FCE-Net Enhanced Output | Ground Truth (Reference) |
+|:---:|:---:|:---:|
 | ![Input](screenshots/input_sample.png) | ![Output](screenshots/output_sample.png) | ![GT](screenshots/gt_sample.png) |
 
-> **Placeholder:** Add sample images to a `screenshots/` folder and update the paths above.
 
 ### Training Curves
 
