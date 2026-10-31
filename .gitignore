@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# macOS
+.DS_Store
+._*
+
+# IDE
+.vscode/
+.idea/
+
+# Virtual environments
+.venv/
+venv/
+
+# Datasets (too large for GitHub)
+dataset_lolv1/
+dataset_lolv2/
+
+# Temporary
+*.tmp
+*.log

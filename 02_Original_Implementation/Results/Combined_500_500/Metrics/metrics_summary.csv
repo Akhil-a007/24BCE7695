@@ -1,0 +1,4 @@
+Benchmark Split,Test Images,PSNR (dB),SSIM,LPIPS,Training Set
+LOLv1 (eval15),15,20.5268,0.7901,0.2363,500 pairs (LOLv1 our485)
+LOLv2 (Real-Captured),100,19.7629,0.8046,0.2541,500 pairs (LOLv2 Real Train)
+Combined Dual Benchmark,115,19.8626,0.8027,0.2518,1000 pairs (500 v1 + 500 v2)

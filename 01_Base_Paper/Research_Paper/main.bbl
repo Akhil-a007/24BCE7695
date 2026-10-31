@@ -1,0 +1,81 @@
+\begin{thebibliography}{10}
+
+\bibitem{wei2018deep}
+Chen Wei, Wenjing Wang, Wenhan Yang, and Jiaying Liu.
+\newblock Deep retinex decomposition for low-light enhancement.
+\newblock In {\em Proceedings of the British Machine Vision Conference (BMVC)},
+  pages 1--12, 2018.
+
+\bibitem{zhang2019kindling}
+Yonghua Zhang, Jiawan Zhang, and Xiaojie Guo.
+\newblock Kindling the dark: A practical low-light image enhancer.
+\newblock In {\em Proceedings of the 27th ACM International Conference on
+  Multimedia (ACM MM)}, pages 317--325, 2019.
+
+\bibitem{guo2020zero}
+Chunle Guo, Chongyi Li, Jichang Guo, Chen~Change Loy, Junhui Hou, Sam Kwong,
+  and Runmin Cong.
+\newblock Zero-reference deep curve estimation for low-light image enhancement.
+\newblock In {\em Proceedings of the IEEE/CVF Conference on Computer Vision and
+  Pattern Recognition (CVPR)}, pages 1780--1789, 2020.
+
+\bibitem{zamir2020learning}
+Syed~Waqas Zamir, Aditya Arora, Salman Khan, Munawar Hayat, Fahad~Shahbaz Khan,
+  Ming-Hsuan Yang, and Ling Shao.
+\newblock Learning enriched features for real image restoration and
+  enhancement.
+\newblock In {\em Proceedings of the European Conference on Computer Vision
+  (ECCV)}, pages 492--511, 2020.
+
+\bibitem{jiang2021enlightengan}
+Yifan Jiang, Xinyu Gong, Ding Liu, Yu~Cheng, Chen Fang, Xiaohui Shen, Jianchao
+  Yang, Pan Zhou, and Zhangyang Wang.
+\newblock Enlightengan: Deep light enhancement without paired supervision.
+\newblock {\em IEEE Transactions on Image Processing (TIP)}, 30:2340--2349,
+  2021.
+
+\bibitem{guo2026fcenet}
+Zengyang Guo, Zhidan Cai, Haoyao Xia, and Shifeng Hu.
+\newblock Fce-net: A frequency-color-edge aware yuv network for low-light image
+  enhancement.
+\newblock {\em Pattern Analysis and Applications}, 29(1):1--14, 2026.
+
+\bibitem{mallat1989theory}
+Stephane~G. Mallat.
+\newblock A theory for multiresolution signal decomposition: The wavelet
+  representation.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence
+  (TPAMI)}, 11(7):674--693, 1989.
+
+\bibitem{vaswani2017attention}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N Gomez, {\L}ukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need.
+\newblock In {\em Advances in Neural Information Processing Systems (NeurIPS)},
+  volume~30, pages 5998--6008, 2017.
+
+\bibitem{hu2018squeeze}
+Jie Hu, Li~Shen, and Gang Sun.
+\newblock Squeeze-and-excitation networks.
+\newblock pages 7132--7141, 2018.
+
+\bibitem{johnson2016perceptual}
+Justin Johnson, Alexandre Alahi, and Li~Fei-Fei.
+\newblock Perceptual losses for real-time style transfer and super-resolution.
+\newblock In {\em Proceedings of the European Conference on Computer Vision
+  (ECCV)}, pages 694--711, 2016.
+
+\bibitem{wang2003multiscale}
+Zhou Wang, Eero~P Simoncelli, and Alan~C Bovik.
+\newblock Multiscale structural similarity for image quality assessment.
+\newblock In {\em The Thirty-Seventh Asilomar Conference on Signals, Systems \&
+  Computers}, volume~2, pages 1398--1402. IEEE, 2003.
+
+\bibitem{yang2021sparse}
+Wenhan Yang, Wenjing Wang, Haofeng Fang, Jiaying Wang, and Jiaying Liu.
+\newblock From fidelity to perceptual quality: A semi-supervised approach for
+  low-light image enhancement.
+\newblock In {\em Proceedings of the IEEE/CVF Conference on Computer Vision and
+  Pattern Recognition (CVPR)}, pages 3063--3072, 2020.
+
+\end{thebibliography}

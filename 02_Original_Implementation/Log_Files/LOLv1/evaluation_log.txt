@@ -1,0 +1,21 @@
+================================================================================
+FCE-Net LOLv1 eval15 Test Set Evaluation (15 Images)
+Student: Akhil Harshavardhan (24BCE7695)
+Model Checkpoint: lolv1_best_model.pth (Epoch 19)
+================================================================================
+
+Image [ 1/15] 1.png      | PSNR: 22.6157 dB | SSIM: 0.8534 | LPIPS: 0.1982
+Image [ 2/15] 111.png    | PSNR: 23.1351 dB | SSIM: 0.8719 | LPIPS: 0.2537
+Image [ 3/15] 146.png    | PSNR: 23.1689 dB | SSIM: 0.8542 | LPIPS: 0.2099
+Image [ 4/15] 179.png    | PSNR: 12.8474 dB | SSIM: 0.6403 | LPIPS: 0.4505
+Image [ 5/15] 22.png     | PSNR: 25.6432 dB | SSIM: 0.8508 | LPIPS: 0.2383
+Image [ 6/15] 23.png     | PSNR: 17.4370 dB | SSIM: 0.7733 | LPIPS: 0.3812
+Image [ 7/15] 493.png    | PSNR: 13.9264 dB | SSIM: 0.5147 | LPIPS: 0.4277
+Image [ 8/15] 547.png    | PSNR: 18.3165 dB | SSIM: 0.7821 | LPIPS: 0.3167
+Image [ 9/15] 55.png     | PSNR: 16.2392 dB | SSIM: 0.7856 | LPIPS: 0.3695
+Image [10/15] 665.png    | PSNR: 25.5018 dB | SSIM: 0.7699 | LPIPS: 0.3499
+Image [11/15] 669.png    | PSNR: 25.1645 dB | SSIM: 0.8208 | LPIPS: 0.3246
+Image [12/15] 748.png    | PSNR: 23.1733 dB | SSIM: 0.8322 | LPIPS: 0.2436
+Image [13/15] 778.png    | PSNR: 20.1107 dB | SSIM: 0.6977 | LPIPS: 0.3546
+Image [14/15] 780.png    | PSNR: 13.9828 dB | SSIM: 0.6294 | LPIPS: 0.3782
+Image [15/15] 79.png     | PSNR: 20.2931 dB | SSIM: 0.8707 | LPIPS: 0.1909

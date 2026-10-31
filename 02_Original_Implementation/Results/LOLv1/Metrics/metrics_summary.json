@@ -1,0 +1,14 @@
+{
+  "dataset": "LOLv1 our485 canon",
+  "student_id": "24BCE7695",
+  "presenter": "Akhil Harshavardhan",
+  "hardware": "NVIDIA GeForce RTX 4050 Laptop GPU (CUDA 12.4, TF32)",
+  "parameters": 686076,
+  "epochs_trained": 20,
+  "best_checkpoint_epoch": 19,
+  "mean_psnr": 20.1037,
+  "mean_ssim": 0.7698,
+  "mean_lpips": 0.3125,
+  "evaluated_images": 15,
+  "trained_images": 485
+}

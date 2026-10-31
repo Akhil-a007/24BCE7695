@@ -1,0 +1,7 @@
+Metric,Score,Units,Description
+PSNR,18.9829,dB,Peak Signal-to-Noise Ratio (Higher is better)
+SSIM,0.7803,Index [0-1],Structural Similarity Index (Higher is better)
+LPIPS,0.3426,Distance,"Learned Perceptual Image Patch Similarity (AlexNet, Lower is better)"
+Test Images,100,Images,Total evaluation pairs from LOLv2 Real-Captured split
+Trained On,689,Images (Complete Dataset),LOLv2 Real-Captured training split
+Parameters,"686,076",Float32,Lightweight decoupled YUV architecture

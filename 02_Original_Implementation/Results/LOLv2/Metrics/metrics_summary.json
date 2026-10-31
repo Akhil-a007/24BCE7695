@@ -1,0 +1,13 @@
+{
+  "dataset": "LOLv2 Real_captured",
+  "student_id": "24BCE7695",
+  "train_images": 689,
+  "test_images": 100,
+  "epochs": 20,
+  "best_epoch": 15,
+  "metrics": {
+    "psnr_mean": 18.9829,
+    "ssim_mean": 0.7803,
+    "lpips_mean": 0.3426
+  }
+}
